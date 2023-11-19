@@ -1,2 +1,2 @@
 # SteadyState
-Calculation of the steady state of the power system
+Calculation of the power system steady state
